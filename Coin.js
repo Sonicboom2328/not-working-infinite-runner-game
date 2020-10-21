@@ -1,0 +1,8 @@
+class Coin{
+    constructor(){
+
+    }
+    display(){
+        
+    }
+}

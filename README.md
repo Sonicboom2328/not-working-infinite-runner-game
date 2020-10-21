@@ -1,2 +1,2 @@
-# not-working-infinite-runner-game
-pls do not play until it is ready fully
+# CarRacingGame1.0
+Car Racing Game Stage 1.0
